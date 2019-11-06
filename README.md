@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/zurichtestautomation/GitPruebas/_apis/build/status/CarlosHernandezP.pipelines-java?branchName=master)](https://dev.azure.com/zurichtestautomation/GitPruebas/_build/latest?definitionId=5&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
